@@ -1,0 +1,14 @@
+.box {
+    background: pink;
+    height: 50px;
+    width: 50px;
+}
+
+.box-2 {
+    background: aquamarine;
+
+}
+
+.box-3 {
+    background: greenyellow;
+}

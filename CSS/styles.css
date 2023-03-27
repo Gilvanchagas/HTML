@@ -1,0 +1,26 @@
+/*  '' # '' = ID  CLASS = '' . ''    */
+
+
+#titulo {
+        color: peru;
+        background: gray;
+    }
+    
+#paragrafo {
+    color: rgb(92, 27, 196);
+    font-weight: bold;
+    font-size: 40px;
+     
+
+    }
+
+#botao {
+        background: purple;
+        size: 60px;
+    }
+
+#outro-botao {
+    background: yellow;
+
+    }
+

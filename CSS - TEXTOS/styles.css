@@ -1,0 +1,27 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    background: rgb(67, 14, 80) ;
+}
+
+h1 {
+    color: rgb(0, 235, 20);
+    font-size: 64px;
+    font-weight: 200;
+    font-style: italic;
+    letter-spacing: 30px;
+    text-align: center;
+    text-shadow: 10px 10px 5px rgb(72, 216, 80);
+    
+}
+
+p {
+    color: rgb(224, 236, 255);
+    font-size: 30px;
+    font-weight: 100;
+    line-height: 70px;
+    word-spacing: 30px;
+    text-align: justify;
+    text-transform: uppercase;    /* upper maiusculo - lower minusculo  */
+    text-decoration: underline ;
+    text-shadow: 10px 8px 4px rgb(10, 223, 195);
+}
